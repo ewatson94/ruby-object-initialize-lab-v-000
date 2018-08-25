@@ -4,4 +4,5 @@ def initialize(name)
 end
 def initialize(breed == "Mutt")
   @breed = breed
-
+end
+end
