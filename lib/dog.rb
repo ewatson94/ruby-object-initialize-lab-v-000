@@ -6,3 +6,5 @@ def initialize(breed)
   @breed = breed 
 end
 end
+
+fido = dog.new("Fido")
